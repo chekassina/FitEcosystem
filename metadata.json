@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Ecosystem Dashboard",
+  "description": "A modern SaaS-style fitness management dashboard for gym owners to monitor memberships, sales, trainers, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
